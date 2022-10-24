@@ -1,0 +1,33 @@
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\bin\Debug\Cadena Invertida.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\bin\Debug\Cadena Invertida.pdb
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\bin\Debug\Cadena Invertida.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Form1.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Resources.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.GenerateResource.Cache
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena Invertida.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena Invertida.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Cadena Invertida\obj\x86\Debug\Cadena Invertida.pdb
+C:\Users\herre\documents\visual studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.exe
+C:\Users\herre\documents\visual studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.xml
+C:\Users\herre\documents\visual studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.xml
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Form1.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Resources.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.GenerateResource.Cache
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.CoreCompileInputs.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.exe.config
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.pdb
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\bin\Debug\Cadena Invertida.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.AssemblyReference.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Form1.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena_Invertida.Resources.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.GenerateResource.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.vbproj.CoreCompileInputs.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Cadena Invertida\Cadena Invertida\obj\x86\Debug\Cadena Invertida.pdb

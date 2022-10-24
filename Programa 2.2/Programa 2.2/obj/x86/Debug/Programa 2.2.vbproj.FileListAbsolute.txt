@@ -1,0 +1,18 @@
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\bin\Debug\Programa 2.2.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\bin\Debug\Programa 2.2.pdb
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\bin\Debug\Programa 2.2.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa_2._2.Form1.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa_2._2.Resources.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa 2.2.vbproj.GenerateResource.Cache
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa 2.2.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa 2.2.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.2\obj\x86\Debug\Programa 2.2.pdb
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa 2.2.exe
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa 2.2.xml
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa 2.2.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\bin\Debug\Programa 2.2.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\bin\Debug\Programa 2.2.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\bin\Debug\Programa 2.2.xml
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa_2._2.Form1.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa_2._2.Resources.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.2\Programa 2.2\obj\x86\Debug\Programa 2.2.vbproj.GenerateResource.Cache

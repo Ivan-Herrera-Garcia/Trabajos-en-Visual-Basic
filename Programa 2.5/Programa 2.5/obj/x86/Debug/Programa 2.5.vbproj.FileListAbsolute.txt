@@ -1,0 +1,31 @@
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\bin\Debug\Programa 2.5.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\bin\Debug\Programa 2.5.pdb
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\bin\Debug\Programa 2.5.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa_2._5.Form1.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa_2._5.Resources.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.GenerateResource.Cache
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa 2.5.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa 2.5.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 2.5\obj\x86\Debug\Programa 2.5.pdb
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.exe
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.xml
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.xml
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa_2._5.Form1.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa_2._5.Resources.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.GenerateResource.Cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.exe.config
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.pdb
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\bin\Debug\Programa 2.5.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.AssemblyReference.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa_2._5.Form1.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa_2._5.Resources.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.GenerateResource.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.vbproj.CoreCompileInputs.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 2.5\Programa 2.5\obj\x86\Debug\Programa 2.5.pdb

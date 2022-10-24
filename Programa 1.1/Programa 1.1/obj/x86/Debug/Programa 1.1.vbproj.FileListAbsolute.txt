@@ -1,0 +1,49 @@
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Form1.resources
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Resources.resources
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.GenerateResource.Cache
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.pdb
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.xml
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.exe
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.xml
+C:\Users\Ivan\documents\visual studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.pdb
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.exe
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.xml
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.pdb
+E:\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe
+E:\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.pdb
+E:\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.xml
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Form1.resources
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Resources.resources
+E:\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.GenerateResource.Cache
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.xml
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.pdb
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.pdb
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.xml
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Form1.resources
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Resources.resources
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.GenerateResource.Cache
+C:\Users\herre\Desktop\Programas de RUVA\PSGB\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.xml
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.xml
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Form1.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Resources.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.GenerateResource.Cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe.config
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.pdb
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\bin\Debug\Programa 1.1.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.AssemblyReference.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Form1.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa_1._1.Resources.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.GenerateResource.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.vbproj.CoreCompileInputs.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.1\Programa 1.1\obj\x86\Debug\Programa 1.1.pdb

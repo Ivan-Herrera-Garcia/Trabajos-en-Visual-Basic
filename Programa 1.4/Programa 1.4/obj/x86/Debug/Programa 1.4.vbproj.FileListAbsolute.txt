@@ -1,0 +1,31 @@
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\bin\Debug\Programa 1.4.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\bin\Debug\Programa 1.4.pdb
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\bin\Debug\Programa 1.4.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa_1._4.Form1.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa_1._4.Resources.resources
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.GenerateResource.Cache
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa 1.4.exe
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa 1.4.xml
+C:\Users\herre\AppData\Local\Temporary Projects\Programa 1.4\obj\x86\Debug\Programa 1.4.pdb
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.exe
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.xml
+C:\Users\herre\documents\visual studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa_1._4.Form1.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa_1._4.Resources.resources
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.GenerateResource.Cache
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.exe
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.pdb
+C:\Users\herre\Documents\Visual Studio 2010\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.exe.config
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.pdb
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\bin\Debug\Programa 1.4.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.AssemblyReference.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa_1._4.Form1.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa_1._4.Resources.resources
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.GenerateResource.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.vbproj.CoreCompileInputs.cache
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.exe
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.xml
+C:\Users\ivan_\Downloads\Guardar\Projects\Programa 1.4\Programa 1.4\obj\x86\Debug\Programa 1.4.pdb
